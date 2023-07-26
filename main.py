@@ -8,8 +8,8 @@ from spotipy.oauth2 import SpotifyOAuth
 BILLBOARD_ENDPOINT = "https://www.billboard.com/charts/hot-100/"  # 2000-08-12
 
 # Spotify Credentials
-Client_ID = "56edf3e1ee1d4006b4ca505c680da3ea"
-Client_Secret = "e1ced27f712a4d11ba6f7e73ea65420c"
+Client_ID = "Type Here"
+Client_Secret = "Type Here"
 Redirect_URI = "https://localhost"
 
 wish_list = []
